@@ -1,0 +1,11 @@
+
+.row {
+    background-color: lightgrey;
+}
+.col {
+    border: 1px solid darkgrey;
+}
+.smiley {
+    font-size: 700%;
+    color: darkgrey;
+}
